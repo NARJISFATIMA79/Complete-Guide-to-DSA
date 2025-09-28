@@ -23,7 +23,9 @@ This repo is a structured handbook — with explanations, real-world analogies, 
 ---
 
 ## 🔗 Direct Download  
-[⬇️ Download Recursion Guide (PDF)](./Complete Recursion.pdf)  
+
+[⬇️ Download Recursion Guide (PDF)](https://img.shields.io/badge/Download-Recursion_Guide-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/NARJISFATIMA79/Complete-Guide-to-DSA/blob/main/Complete Recursion.pdf)
+)  
 
 ---
 
